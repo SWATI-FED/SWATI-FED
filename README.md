@@ -4,22 +4,23 @@
 
 ## 🚀 Skills
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React, Vue.js, Angular
-- **Styling:** SASS/SCSS, Styled Components
+- **Languages:** Python, JavaScript
+- **Analytics Tools:** Tableau, SQL, PowerBI, Data Visualization
+- **Frameworks/Libraries:** React, Tesseract
 - **Responsive Design:** Bootstrap, Media Queries
 - **Version Control:** Git, GitHub
 - **Build Tools:** Webpack, Babel
 - **Testing/Debugging:** Jest, Enzyme, Chrome DevTools
 - **Package Managers:** npm, Yarn
 - **Collaboration:** Agile, Jira
+- **Strong in Statistics and Databases**
 
 - ## 🌱 Learning
 
-I am constantly exploring new technologies and frameworks to stay up-to-date with the ever-evolving landscape of web development. Currently, I am diving deeper into React.JS.
+I am constantly exploring new technologies and frameworks to stay up-to-date with the ever-evolving landscape of Visualization and Analytics. Currently, I am diving deeper into Business System Analytics.
 
 ## 📫 Let's Connect!
 
-Feel free to reach out to me for collaboration, job opportunities, or just to discuss the latest trends in frontend development. You can find me on [https://www.linkedin.com/in/swati-gupta-developer].
+Feel free to reach out to me for collaboration, job opportunities, or just to discuss the latest trends in frontend development,Data Analytics, Business Analytics. You can find me on [https://www.linkedin.com/in/swati-gupta-developer].
 
 Happy coding! 👩‍💻🚀
