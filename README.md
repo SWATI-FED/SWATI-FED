@@ -1,4 +1,4 @@
-# Frontend Developer Profile
+# Analyst Profile
 
 👋 Hello! I'm Swati Gupta, a passionate frontend developer with a knack for creating elegant and responsive user interfaces. I thrive on turning innovative ideas into user-friendly, visually appealing websites and web applications.
 
